@@ -30,7 +30,7 @@ We help you find opportunities. We do not guarantee that you will be eligible fo
 You can cancel at any time by:
 
 - using the Stripe customer link in your receipt or billing emails, or
-- emailing us at **mansfielddustin1@gmail.com** and asking us to cancel.
+- emailing us at **hello@deadlinesweep.com** and asking us to cancel.
 
 When you cancel, you won't be charged again. You keep Pro access until the end of the period you already paid for.
 
@@ -68,6 +68,6 @@ Our [Privacy Policy](privacy.html) explains what information we collect and how 
 
 ## Contact
 
-Questions about these terms, billing, cancellations or refunds? Email **mansfielddustin1@gmail.com**.
+Questions about these terms, billing, cancellations or refunds? Email **hello@deadlinesweep.com**.
 
 Deadline Sweep, 2780 New Holt Road, Suite D 226, Paducah, KY 42001

@@ -41,7 +41,7 @@ We keep your subscriber information while you are subscribed. If you unsubscribe
 
 - **Unsubscribe** any time using the link at the bottom of every email.
 - **Stop outreach emails** by replying "unsubscribe" or "stop," or emailing us. We will add you to our suppression list.
-- **See, correct or delete your information** by emailing us at mansfielddustin1@gmail.com. We will respond within 30 days.
+- **See, correct or delete your information** by emailing us at hello@deadlinesweep.com. We will respond within 30 days.
 
 ## Security
 
@@ -57,6 +57,6 @@ If we change this policy, we will update the effective date above. For significa
 
 ## Contact
 
-Questions about privacy? Email **mansfielddustin1@gmail.com**.
+Questions about privacy? Email **hello@deadlinesweep.com**.
 
 Deadline Sweep, 2780 New Holt Road, Suite D 226, Paducah, KY 42001
