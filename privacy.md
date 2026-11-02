@@ -40,7 +40,7 @@ We keep your subscriber information while you are subscribed. If you unsubscribe
 ## Your choices
 
 - **Unsubscribe** any time using the link at the bottom of every email.
-- **Stop outreach emails** by replying "unsubscribe" or "stop," or emailing us. We will add you to our suppression list.
+- **Stop outreach emails** by replying "no thanks," "unsubscribe" or "stop," or emailing us. We will add you to our suppression list.
 - **See, correct or delete your information** by emailing us at hello@deadlinesweep.com. We will respond within 30 days.
 
 ## Security
@@ -59,4 +59,4 @@ If we change this policy, we will update the effective date above. For significa
 
 Questions about privacy? Email **hello@deadlinesweep.com**.
 
-Deadline Sweep, 2780 New Holt Road, Suite D 226, Paducah, KY 42001
+Deadline Sweep, 2780 New Holt Road, Suite D PMB 226, Paducah, KY 42001
