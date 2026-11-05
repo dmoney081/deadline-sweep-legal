@@ -1,0 +1,394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Deadline Sweep//Grant Deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Deadline Sweep – Illinois small-government grant deadlines
+X-WR-TIMEZONE:America/Chicago
+X-WR-CALDESC:Deadlines from Deadline Sweep (official pages re-checked in th
+ e Sun\, Nov 1\, 2026 – Mon\, Nov 2\, 2026 sweeps)\, from Thu\, Nov 5\, 2
+ 026 on. Rolling programs (no fixed date): USDA Community Facilities Direct
+  Loan & Grant Program\; USDA Water & Waste Disposal Loan & Grant Program\;
+  DCEO CDBG Community Revitalization Program (FY27-1)\; DCEO CDBG Economic 
+ Development Program (FY25-1)\; DCEO CDBG Disaster Response Program\; EDA P
+ ublic Works & Economic Adjustment Assistance (PWEAA2023)\; Illinois EPA Le
+ ad Service Line Inventory (LSLI) Grant Program\; Illinois EPA Unsewered Co
+ mmunities Planning Grant – Round 3\; IDNR IRA Urban & Community Forestry
+  Program (23-DG-11094200-327)\; Illinois EPA Driving a Cleaner Illinois 
+ – DERA (NOFO 27-2086-01)
+BEGIN:VEVENT
+UID:d33184e2a063cd77@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:DUE: DCEO Tourism Attraction Grant Program (FY27-1\, NOFO 4351)
+DESCRIPTION:Deadline: Fri\, Nov 13\, 2026\, 5:00 PM CT\nFunder: Illinois DC
+ EO\nAward: $15\,000 – $200\,000 per award\nMatch: At least 50% of total 
+ project cost for local governments (for-profit businesses: 75%)\nWhat you 
+ need: A tourism attraction project with at least 50% local match in hand. 
+ Applicants must be GATA pre-qualified.\nOfficial page: https://dceo.illino
+ is.gov/aboutdceo/grantopportunities/2168-4351.html
+URL:https://dceo.illinois.gov/aboutdceo/grantopportunities/2168-4351.html
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: DCEO Tourism Attraction Grant Program (FY27-1\, N
+ OFO 4351)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dd658e767f67b116@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:DUE: Illinois CPRG: Small Utility Clean Energy Planning Grant – R
+ ound 4
+DESCRIPTION:Deadline: Fri\, Nov 13\, 2026\, 5:00 PM CT\nFunder: Illinois Fi
+ nance Authority / Climate Bank\nAward: Up to $200\,000 per award\nMatch: 0
+ % (AmpliFund: Cash Match Requirement 0.00%\; NOFO cost sharing: No)\nWhat 
+ you need: A clean-energy planning scope for your utility\, submitted on Am
+ pliFund.\nOfficial page: https://il.amplifund.com/Public/Opportunities/Det
+ ails/dd878314-49bf-4ef7-ab10-fcba9e19fca9
+URL:https://il.amplifund.com/Public/Opportunities/Details/dd878314-49bf-4ef
+ 7-ab10-fcba9e19fca9
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: Illinois CPRG: Small Utility Clean Energy Plannin
+ g Grant – Round 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9bdffea6b790a09f@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:DUE: FHWA FY 2026 Wildlife Crossings Pilot Program (FHWA-WCPP-26-00
+ 2)
+DESCRIPTION:Deadline: Mon\, Nov 16\, 2026\, 11:59 PM ET (10:59 PM CT)\nFund
+ er: U.S. DOT – FHWA\nAward: No minimum or maximum award size\nMatch: 20%
+  non-federal cost share (NOFO)\nWhat you need: A road location with docume
+ nted wildlife-vehicle collisions and a 20% local share.\nOfficial page: ht
+ tps://www.grantsolutions.gov/gs/preaward/previewPublicAnnouncement.do?id=1
+ 28831
+URL:https://www.grantsolutions.gov/gs/preaward/previewPublicAnnouncement.do
+ ?id=128831
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: FHWA FY 2026 Wildlife Crossings Pilot Program (FH
+ WA-WCPP-26-002)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d613b6356775d421@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:DUE: OJJDP FY 2026 Opioid Affected Youth Initiative (O-OJJDP-2026-1
+ 72748) – Grants.gov deadline
+DESCRIPTION:Deadline: Mon\, Nov 16\, 2026\, 11:59 PM ET (10:59 PM CT)\nFund
+ er: U.S. DOJ – OJJDP\nMatch: None (NOFO: 'does not require cost sharing'
+ )\nWhat you need: Prevention\, intervention or treatment programs for opio
+ id-affected youth and families\, run with local partners (NOFO: 'Implement
+  programs and provide services')\; SAM.gov + Grants.gov/JustGrants.\nOffic
+ ial page: https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
+URL:https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: OJJDP FY 2026 Opioid Affected Youth Initiative (O
+ -OJJDP-2026-172748)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b47e70711d435bab@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:DUE: OJJDP FY 2026 Opioid Affected Youth Initiative (O-OJJDP-2026-1
+ 72748) – JustGrants full application
+DESCRIPTION:Deadline: Mon\, Nov 23\, 2026\, 8:59 PM ET (7:59 PM CT)\nFunder
+ : U.S. DOJ – OJJDP\nMatch: None (NOFO: 'does not require cost sharing')\
+ nWhat you need: Prevention\, intervention or treatment programs for opioid
+ -affected youth and families\, run with local partners (NOFO: 'Implement p
+ rograms and provide services')\; SAM.gov + Grants.gov/JustGrants.\nOfficia
+ l page: https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
+URL:https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: OJJDP FY 2026 Opioid Affected Youth Initiative (O
+ -OJJDP-2026-172748)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:453862f276f50f85@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:DUE: ILETSB FY27 Law Enforcement Camera Grant
+DESCRIPTION:Deadline: Wed\, Nov 18\, 2026\, 5:00 PM CT\nFunder: Illinois La
+ w Enforcement Training & Standards Board\nAward: $1 to $3\,000\,000 per aw
+ ard\nMatch: 0% (AmpliFund: Cash Match Requirement 0.00%\, In-Kind Match Re
+ quirement 0.00%)\nWhat you need: Your police department + GATA pre-qualifi
+ cation\; quote for body-worn or in-car cameras.\nOfficial page: https://il
+ .amplifund.com/Public/Opportunities/Details/a7a97ce6-7f6f-4353-9659-705a12
+ 33f916
+URL:https://il.amplifund.com/Public/Opportunities/Details/a7a97ce6-7f6f-435
+ 3-9659-705a1233f916
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: ILETSB FY27 Law Enforcement Camera Grant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1660edffb1abe153@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:DUE: OSFM FY27 Small Equipment Grant
+DESCRIPTION:Deadline: Mon\, Nov 30\, 2026\, 11:59 PM CT\nFunder: Illinois O
+ ffice of the State Fire Marshal\nAward: Up to $50\,000 per award\nWhat you
+  need: SAM.gov + GATA\, NFIRS/NERIS reports filed Oct 2024–Sep 2026\, an
+ d both the AmpliFund application and the OSFM form.\nOfficial page: https:
+ //sfm.illinois.gov/currentfocus/fy-27-small-equipment-grant-.html
+URL:https://sfm.illinois.gov/currentfocus/fy-27-small-equipment-grant-.html
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: OSFM FY27 Small Equipment Grant
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ebafb767d6f5c44@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:DUE: Walmart Spark Good Local Grants (FY27 Cycle 3) – Last day to
+  submit for FY27
+DESCRIPTION:Deadline: Mon\, Nov 30\, 2026\nFunder: Walmart Foundation\nAwar
+ d: $250 – $5\,000\nWhat you need: A Walmart or Sam's Club serving your a
+ rea\; apply through Spark Good/Deed.\nOfficial page: https://www.walmart.o
+ rg/how-we-give/local-community-grants
+URL:https://www.walmart.org/how-we-give/local-community-grants
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: Walmart Spark Good Local Grants (FY27 Cycle 3)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0530fd20ed716eae@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:DUE: OJP FY 2026 Integrity in American Elections Grant Program (O-B
+ JA-2026-172793) – Grants.gov deadline
+DESCRIPTION:Deadline: Tue\, Dec 1\, 2026\, 11:59 PM ET (10:59 PM CT)\nFunde
+ r: U.S. DOJ – Office of Justice Programs\nMatch: None (NOFO: 'does not r
+ equire cost sharing')\nWhat you need: An election security/administration 
+ project\; SAM.gov + Grants.gov/JustGrants.\nOfficial page: https://bja.ojp
+ .gov/funding/opportunities/o-bja-2026-172793
+URL:https://bja.ojp.gov/funding/opportunities/o-bja-2026-172793
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: OJP FY 2026 Integrity in American Elections Grant
+  Program (O-BJA-2026-172793)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:54394753831ec346@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:DUE: OJP FY 2026 Integrity in American Elections Grant Program (O-B
+ JA-2026-172793) – JustGrants full application
+DESCRIPTION:Deadline: Tue\, Dec 8\, 2026\, 8:59 PM ET (7:59 PM CT)\nFunder:
+  U.S. DOJ – Office of Justice Programs\nMatch: None (NOFO: 'does not req
+ uire cost sharing')\nWhat you need: An election security/administration pr
+ oject\; SAM.gov + Grants.gov/JustGrants.\nOfficial page: https://bja.ojp.g
+ ov/funding/opportunities/o-bja-2026-172793
+URL:https://bja.ojp.gov/funding/opportunities/o-bja-2026-172793
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: OJP FY 2026 Integrity in American Elections Grant
+  Program (O-BJA-2026-172793)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc48b0158ce885c@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:DUE: USDA Forest Service Landscape Scale Restoration (USDA-FS-2026-
+ LSR) – Narrative and budget to the State Forester (IDNR Forestry)
+DESCRIPTION:Deadline: Thu\, Dec 17\, 2026\nFunder: USDA Forest Service (spo
+ nsored by the State Forester\, Illinois DNR)\nAward: $100\,000 – $300\,0
+ 00 (single-state project)\nMatch: 1:1 non-federal match required\nWhat you
+  need: A forest-restoration or wildfire-risk project on rural forest land\
+ , sponsored by IDNR Forestry (narrative and budget due to the State Forest
+ er Thu\, Dec 17\, 2026). 1:1 match\; $100\,000 minimum.\nOfficial page: ht
+ tps://www.fs.usda.gov/managing-land/private-land/landscape-scale-restorati
+ on
+URL:https://www.fs.usda.gov/managing-land/private-land/landscape-scale-rest
+ oration
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: USDA Forest Service Landscape Scale Restoration (
+ USDA-FS-2026-LSR)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df8787af12a3f39e@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:DUE: USDA Forest Service Landscape Scale Restoration (USDA-FS-2026-
+ LSR) – Grants.gov application
+DESCRIPTION:Deadline: Tue\, Jan 26\, 2027\, 11:59 PM ET (10:59 PM CT)\nFund
+ er: USDA Forest Service (sponsored by the State Forester\, Illinois DNR)\n
+ Award: $100\,000 – $300\,000 (single-state project)\nMatch: 1:1 non-fede
+ ral match required\nWhat you need: A forest-restoration or wildfire-risk p
+ roject on rural forest land\, sponsored by IDNR Forestry (narrative and bu
+ dget due to the State Forester Thu\, Dec 17\, 2026). 1:1 match\; $100\,000
+  minimum.\nOfficial page: https://www.fs.usda.gov/managing-land/private-la
+ nd/landscape-scale-restoration
+URL:https://www.fs.usda.gov/managing-land/private-land/landscape-scale-rest
+ oration
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: USDA Forest Service Landscape Scale Restoration (
+ USDA-FS-2026-LSR)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aaea1f287831c008@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:DUE: Illinois CPRG: Stretch Code Adoption Grant – Round 4 – Rol
+ ling review through
+DESCRIPTION:Deadline: Thu\, Dec 31\, 2026\, 5:00 PM CT\nFunder: Illinois Fi
+ nance Authority / Climate Bank\nAward: Up to $200\,000 per town\; up to $1
+ \,000\,000 for a group of 5+ towns\nMatch: None (AmpliFund: cash match 0.0
+ 0%)\nWhat you need: GATA pre-qualification\, a good-faith effort to consid
+ er adopting the Illinois Stretch Energy Code (NOFO: adoption commitment no
+ t required)\, and the Euna/AmpliFund application with Attachment A.\nOffic
+ ial page: https://il.amplifund.com/Public/Opportunities/Details/080262b1-a
+ 942-40bc-b2f8-df74ac6eae7a
+URL:https://il.amplifund.com/Public/Opportunities/Details/080262b1-a942-40b
+ c-b2f8-df74ac6eae7a
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: Illinois CPRG: Stretch Code Adoption Grant – Ro
+ und 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0e96c366891f4a0@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:DUE: USDA Solid Waste Management Grant Program (SWMFY27)
+DESCRIPTION:Deadline: Thu\, Dec 31\, 2026\nFunder: USDA Rural Development\n
+ Award: Up to $1\,000\,000 per award (Grants.gov award ceiling)\nMatch: Non
+ e (NOFO 3.2: no cost sharing or matching)\nWhat you need: A plan to delive
+ r solid-waste technical assistance/training to rural areas and towns of 10
+ \,000 or less.\nOfficial page: https://www.rd.usda.gov/programs-services/s
+ olid-waste-management-grants
+URL:https://www.rd.usda.gov/programs-services/solid-waste-management-grants
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: USDA Solid Waste Management Grant Program (SWMFY2
+ 7)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:eddab36242c7ca10@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:DUE: EPA 2026 DERA National Program (EPA-OAR-OTAQ-26-01)
+DESCRIPTION:Deadline: Fri\, Jan 22\, 2027\, 11:59 PM ET (10:59 PM CT)\nFund
+ er: U.S. EPA\nAward: Up to $8\,000\,000 per application (EPA Region 5\, wh
+ ich serves Illinois)\nMatch: Mandatory cost share 0%–80% by technology (
+ NOFO Table 2)\; e.g. highway vehicle replacement 55%–75%\, nonroad equip
+ ment replacement 60%–75%\nWhat you need: Older diesel trucks/equipment t
+ o replace or retrofit\, plus your cost share.\nOfficial page: https://www.
+ epa.gov/dera/national
+URL:https://www.epa.gov/dera/national
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: EPA 2026 DERA National Program (EPA-OAR-OTAQ-26-0
+ 1)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c2618a0680f03450@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270302
+SUMMARY:DUE: Illinois EPA FY27 Residential Sharps Collection Program – La
+ st day to submit for FY27\, or earlier if funds run out
+DESCRIPTION:Deadline: Mon\, Mar 1\, 2027\, 5:00 PM CT\nFunder: Illinois EPA
+ \nAward: Reimburses actual costs\, up to $35\,000 per local government\nWh
+ at you need: GATA pre-qualification and a residential sharps collection st
+ ation you operate (or will).\nOfficial page: https://epa.illinois.gov/topi
+ cs/waste-management/waste-disposal/medication-disposal/sharps/residential-
+ sharps-collection-program.html
+URL:https://epa.illinois.gov/topics/waste-management/waste-disposal/medicat
+ ion-disposal/sharps/residential-sharps-collection-program.html
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: Illinois EPA FY27 Residential Sharps Collection P
+ rogram
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9416b95a6f38f84d@deadlinesweep
+DTSTAMP:20261105T193548Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:DUE: NHTSA Innovative Traffic Safety Enforcement (ITSE) Grant Progr
+ am
+DESCRIPTION:Deadline: Wed\, Sep 1\, 2027\nFunder: U.S. DOT – NHTSA\nAward
+ : At least $300\,000 per award (Grants.gov award floor)\nMatch: None (NOFO
+  section B: cost sharing not required)\nWhat you need: A traffic-enforceme
+ nt project of at least $300\,000.\nOfficial page: https://www.grants.gov/s
+ earch-results-detail/363446
+URL:https://www.grants.gov/search-results-detail/363446
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P14D
+DESCRIPTION:14 days left: NHTSA Innovative Traffic Safety Enforcement (ITSE
+ ) Grant Program
+END:VALARM
+END:VEVENT
+END:VCALENDAR
