@@ -1,6 +1,6 @@
 # Deadline Sweep Terms of Service
 
-**Effective date:** October 30, 2026
+**Effective date:** November 10, 2026
 
 These terms are the agreement between you and Deadline Sweep, run by Dustin Mansfield ("we," "us"). By subscribing to or using Deadline Sweep, free or paid, you agree to these terms. We have tried to keep them short and in plain English.
 
@@ -24,6 +24,7 @@ We help you find opportunities. We do not guarantee that you will be eligible fo
 - Payments are processed by **Stripe**. By subscribing, you authorize us (through Stripe) to charge your payment method at the start of each billing period.
 - **Your subscription renews automatically** each month or year until you cancel.
 - If we ever change the price, we will email you before the new price applies to your next renewal, so you have time to cancel.
+- If you start a 14-day Pro trial, we will not charge you unless you add a payment method. If you do not add one before the trial ends, the subscription simply ends with no charge. The 14-day refund window starts on your first payment, not on the trial start date.
 
 ## Cancel anytime
 
