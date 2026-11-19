@@ -5,111 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Deadline Sweep – Illinois small-government grant deadlines
 X-WR-TIMEZONE:America/Chicago
-X-WR-CALDESC:Deadlines from Deadline Sweep (official pages re-checked in th
- e Sun\, Nov 1\, 2026 – Mon\, Nov 2\, 2026 sweeps)\, from Sat\, Nov 14\, 
- 2026 on. Rolling programs (no fixed date): USDA Community Facilities Direc
- t Loan & Grant Program\; USDA Water & Waste Disposal Loan & Grant Program\
- ; DCEO CDBG Community Revitalization Program (FY27-1)\; DCEO CDBG Economic
-  Development Program (FY25-1)\; DCEO CDBG Disaster Response Program\; EDA 
- Public Works & Economic Adjustment Assistance (PWEAA2023)\; Illinois EPA L
- ead Service Line Inventory (LSLI) Grant Program\; Illinois EPA Unsewered C
- ommunities Planning Grant – Round 3\; IDNR IRA Urban & Community Forestr
- y Program (23-DG-11094200-327)\; Illinois EPA Driving a Cleaner Illinois 
- – DERA (NOFO 27-2086-01)
-BEGIN:VEVENT
-UID:9bdffea6b790a09f@deadlinesweep
-DTSTAMP:20261113T232557Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:DUE: FHWA FY 2026 Wildlife Crossings Pilot Program (FHWA-WCPP-26-00
- 2)
-DESCRIPTION:Deadline: Mon\, Nov 16\, 2026\, 11:59 PM ET (10:59 PM CT)\nFund
- er: U.S. DOT – FHWA\nAward: No minimum or maximum award size\nMatch: 20%
-  non-federal cost share (NOFO)\nWhat you need: A road location with docume
- nted wildlife-vehicle collisions and a 20% local share.\nOfficial page: ht
- tps://www.grantsolutions.gov/gs/preaward/previewPublicAnnouncement.do?id=1
- 28831
-URL:https://www.grantsolutions.gov/gs/preaward/previewPublicAnnouncement.do
- ?id=128831
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P14D
-DESCRIPTION:14 days left: FHWA FY 2026 Wildlife Crossings Pilot Program (FH
- WA-WCPP-26-002)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:d613b6356775d421@deadlinesweep
-DTSTAMP:20261113T232557Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:DUE: OJJDP FY 2026 Opioid Affected Youth Initiative (O-OJJDP-2026-1
- 72748) – Grants.gov deadline
-DESCRIPTION:Deadline: Mon\, Nov 16\, 2026\, 11:59 PM ET (10:59 PM CT)\nFund
- er: U.S. DOJ – OJJDP\nAward: Up to $750\,000 per award\nMatch: None (NOF
- O: 'does not require cost sharing')\nWhat you need: Prevention\, intervent
- ion or treatment programs for opioid-affected youth and families\, run wit
- h local partners (NOFO: 'Implement programs and provide services')\; SAM.g
- ov + Grants.gov/JustGrants.\nOfficial page: https://ojjdp.ojp.gov/funding/
- opportunities/o-ojjdp-2026-172748
-URL:https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P14D
-DESCRIPTION:14 days left: OJJDP FY 2026 Opioid Affected Youth Initiative (O
- -OJJDP-2026-172748)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b47e70711d435bab@deadlinesweep
-DTSTAMP:20261113T232557Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-SUMMARY:DUE: OJJDP FY 2026 Opioid Affected Youth Initiative (O-OJJDP-2026-1
- 72748) – JustGrants full application
-DESCRIPTION:Deadline: Mon\, Nov 23\, 2026\, 8:59 PM ET (7:59 PM CT)\nFunder
- : U.S. DOJ – OJJDP\nAward: Up to $750\,000 per award\nMatch: None (NOFO:
-  'does not require cost sharing')\nWhat you need: Prevention\, interventio
- n or treatment programs for opioid-affected youth and families\, run with 
- local partners (NOFO: 'Implement programs and provide services')\; SAM.gov
-  + Grants.gov/JustGrants.\nOfficial page: https://ojjdp.ojp.gov/funding/op
- portunities/o-ojjdp-2026-172748
-URL:https://ojjdp.ojp.gov/funding/opportunities/o-ojjdp-2026-172748
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P14D
-DESCRIPTION:14 days left: OJJDP FY 2026 Opioid Affected Youth Initiative (O
- -OJJDP-2026-172748)
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:453862f276f50f85@deadlinesweep
-DTSTAMP:20261113T232557Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:DUE: ILETSB FY27 Law Enforcement Camera Grant
-DESCRIPTION:Deadline: Wed\, Nov 18\, 2026\, 5:00 PM CT\nFunder: Illinois La
- w Enforcement Training & Standards Board\nAward: $1 to $3\,000\,000 per aw
- ard\nMatch: 0% (AmpliFund: Cash Match Requirement 0.00%\, In-Kind Match Re
- quirement 0.00%)\nWhat you need: Your police department + GATA pre-qualifi
- cation\; quote for body-worn or in-car cameras.\nOfficial page: https://il
- .amplifund.com/Public/Opportunities/Details/a7a97ce6-7f6f-4353-9659-705a12
- 33f916
-URL:https://il.amplifund.com/Public/Opportunities/Details/a7a97ce6-7f6f-435
- 3-9659-705a1233f916
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-ACTION:DISPLAY
-TRIGGER:-P14D
-DESCRIPTION:14 days left: ILETSB FY27 Law Enforcement Camera Grant
-END:VALARM
-END:VEVENT
+X-WR-CALDESC:Deadlines from Deadline Sweep (each official page last checked
+  Tue\, Nov 17\, 2026 – Wed\, Nov 18\, 2026)\, from Thu\, Nov 19\, 2026 o
+ n. Rolling programs (no fixed date): USDA Community Facilities Direct Loan
+  & Grant Program\; USDA Water & Waste Disposal Loan & Grant Program\; DCEO
+  CDBG Community Revitalization Program (FY27-1)\; DCEO CDBG Economic Devel
+ opment Program (FY25-1)\; DCEO CDBG Disaster Response Program\; EDA Public
+  Works & Economic Adjustment Assistance (PWEAA2023)\; Illinois EPA Lead Se
+ rvice Line Inventory (LSLI) Grant Program\; Illinois EPA Unsewered Communi
+ ties Planning Grant – Round 3\; IDNR IRA Urban & Community Forestry Prog
+ ram (23-DG-11094200-327)\; Illinois EPA Driving a Cleaner Illinois – DER
+ A (NOFO 27-2086-01)
 BEGIN:VEVENT
 UID:1660edffb1abe153@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:DUE: OSFM FY27 Small Equipment Grant
@@ -132,7 +41,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2ebafb767d6f5c44@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:DUE: Walmart Spark Good Local Grants (FY27 Cycle 3) – Last day to
@@ -151,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0530fd20ed716eae@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:DUE: OJP FY 2026 Integrity in American Elections Grant Program (O-B
@@ -173,7 +82,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:54394753831ec346@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 SUMMARY:DUE: OJP FY 2026 Integrity in American Elections Grant Program (O-B
@@ -195,7 +104,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:0fc48b0158ce885c@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:DUE: USDA Forest Service Landscape Scale Restoration (USDA-FS-2026-
@@ -220,7 +129,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:df8787af12a3f39e@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 SUMMARY:DUE: USDA Forest Service Landscape Scale Restoration (USDA-FS-2026-
@@ -245,7 +154,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aaea1f287831c008@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:DUE: Illinois CPRG: Stretch Code Adoption Grant – Round 4 – Rol
@@ -270,7 +179,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c0e96c366891f4a0@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:DUE: USDA Solid Waste Management Grant Program (SWMFY27)
@@ -291,7 +200,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:eddab36242c7ca10@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:DUE: EPA 2026 DERA National Program (EPA-OAR-OTAQ-26-01)
@@ -313,7 +222,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:c2618a0680f03450@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:DUE: Illinois EPA FY27 Residential Sharps Collection Program – La
@@ -336,7 +245,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:84d75479b6409e81@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:DUE: NHTSA Innovative Traffic Safety Enforcement (ITSE) Grant Progr
@@ -357,7 +266,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:936f0c64ef820bd4@deadlinesweep
-DTSTAMP:20261113T232557Z
+DTSTAMP:20261119T055128Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:DUE: NHTSA Innovative Traffic Safety Enforcement (ITSE) Grant Progr
