@@ -135,8 +135,8 @@ UID:2ebafb767d6f5c44@deadlinesweep
 DTSTAMP:20261113T232557Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-SUMMARY:DUE: Walmart Spark Good Local Grants (FY27 Cycle 3) – Last day to
-  submit for FY27
+SUMMARY:DUE: Walmart Spark Good Local Grants (FY27 Cycle 3) – Walmart: la
+ st day to submit is November 30
 DESCRIPTION:Deadline: Mon\, Nov 30\, 2026\nFunder: Walmart Foundation\nAwar
  d: $250 – $5\,000\nWhat you need: A Walmart or Sam's Club serving your a
  rea\; apply through Spark Good/Deed.\nOfficial page: https://www.walmart.o
@@ -341,11 +341,10 @@ DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:DUE: NHTSA Innovative Traffic Safety Enforcement (ITSE) Grant Progr
  am – Next phase
-DESCRIPTION:Deadline: Mon\, Mar 1\, 2027\, 5:00 PM EST\nFunder: U.S. DOT 
- – NHTSA\nAward: $500\,000 – $2\,000\,000 per award\nMatch: None (NOFO 
- section B: cost sharing not required)\nWhat you need: A traffic-enforcemen
- t project.\nOfficial page: https://www.grants.gov/search-results-detail/36
- 3446
+DESCRIPTION:Deadline: Mon\, Mar 1\, 2027\nFunder: U.S. DOT – NHTSA\nAward
+ : $500\,000 – $2\,000\,000 per award\nMatch: None (NOFO section B: cost 
+ sharing not required)\nWhat you need: A traffic-enforcement project.\nOffi
+ cial page: https://www.grants.gov/search-results-detail/363446
 URL:https://www.grants.gov/search-results-detail/363446
 TRANSP:TRANSPARENT
 BEGIN:VALARM
@@ -362,11 +361,10 @@ DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 SUMMARY:DUE: NHTSA Innovative Traffic Safety Enforcement (ITSE) Grant Progr
  am – Final phase
-DESCRIPTION:Deadline: Wed\, Sep 1\, 2027\, 5:00 PM EST\nFunder: U.S. DOT 
- – NHTSA\nAward: $500\,000 – $2\,000\,000 per award\nMatch: None (NOFO 
- section B: cost sharing not required)\nWhat you need: A traffic-enforcemen
- t project.\nOfficial page: https://www.grants.gov/search-results-detail/36
- 3446
+DESCRIPTION:Deadline: Wed\, Sep 1\, 2027\nFunder: U.S. DOT – NHTSA\nAward
+ : $500\,000 – $2\,000\,000 per award\nMatch: None (NOFO section B: cost 
+ sharing not required)\nWhat you need: A traffic-enforcement project.\nOffi
+ cial page: https://www.grants.gov/search-results-detail/363446
 URL:https://www.grants.gov/search-results-detail/363446
 TRANSP:TRANSPARENT
 BEGIN:VALARM
